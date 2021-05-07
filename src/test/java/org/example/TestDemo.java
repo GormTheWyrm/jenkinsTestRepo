@@ -16,3 +16,4 @@ public static void testInit(){
 }
 
 }
+//use logs to log the results to a file!
